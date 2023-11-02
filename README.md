@@ -1,4 +1,4 @@
-# BookStoreProject
-A Small MERN App for helping users to create,update or delete books
-
-# npm run dev
+# For executing frontend and backend successfully
+  npm run dev
+# For update purpose/Remove errors
+  npm update
